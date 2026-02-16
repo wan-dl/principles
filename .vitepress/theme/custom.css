@@ -1,0 +1,32 @@
+/* 自定义 CSS 变量 */
+:root {
+  /* 主题色 */
+  --vp-c-brand-1: #5b8a3c;
+  --vp-c-brand-2: #6a9b4a;
+  --vp-c-brand-3: #7aac5a;
+
+  /* 字体 */
+  /* --vp-font-family-base: 'Inter', sans-serif; */
+
+  /* 侧边栏宽度 */
+  /* --vp-sidebar-width: 280px; */
+}
+
+/* 深色模式 */
+.dark {
+  --vp-c-brand-1: #7aac5a;
+  --vp-c-brand-2: #8abd6a;
+  --vp-c-brand-3: #9ace7a;
+}
+
+.vp-doc h1 ~ h1 {
+    margin-top: 50px;
+}
+
+/* 自定义样式示例 */
+/* 
+.VPNav {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px);
+}
+*/
