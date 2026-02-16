@@ -3,3 +3,4 @@ unpackage/*
 .vscode/settings.json
 .kiro
 node_modules/
+.vitepress/
