@@ -20,6 +20,9 @@ features:
     link: 股票交易/1.股票交易原则.md
   - title: Create Yourself
     details: 去踩油门，去冒险，甚至去撞击，因为这辆车终究会报废，精彩的驾驶过程才是你唯一拥有的
-    link: Create-Yourself\This-is-Water.md
+    link: Create-Yourself/This-is-Water.md
+  - title: 逻辑
+    details: 少走弯路，少掉坑
+    link: login/逻辑.md
 ---
 
