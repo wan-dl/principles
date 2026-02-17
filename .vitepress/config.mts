@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: '原则', link: '/README' }
+      { text: '所有记录', link: '/README' }
     ],
 
     sidebar: generateSidebar(),
