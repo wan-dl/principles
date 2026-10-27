@@ -27,5 +27,3 @@ features:
   - 人生收藏
     details: 走别人走过的正确的路
     link: 人生指南/收藏.md
----
-
