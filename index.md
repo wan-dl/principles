@@ -24,6 +24,7 @@ features:
   - title: 逻辑
     details: 少走弯路，少掉坑
     link: login/逻辑.md
-  - 人生收藏
+  - title: 人生收藏
     details: 走别人走过的正确的路
     link: 人生指南/收藏.md
+---
