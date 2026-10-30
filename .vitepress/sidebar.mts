@@ -47,6 +47,6 @@ function getMarkdownFiles(dir: string, basePath: string = ''): SidebarItem[] {
   return items
 }
 
-export function generateSidebar(): SidebarItem[] {
-  return getMarkdownFiles('.')
+export function generateSidebar(dir: string = '.'): SidebarItem[] {
+  return getMarkdownFiles(dir, dir === '.' ? '' : dir)
 }

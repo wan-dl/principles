@@ -12,7 +12,12 @@ export default defineConfig({
       { text: '所有记录', link: '/README' }
     ],
 
-    sidebar: generateSidebar(),
+    sidebar: {
+      '/股票交易/': generateSidebar('股票交易'),
+      '/Create-Yourself/': generateSidebar('Create-Yourself'),
+      '/logic/': generateSidebar('logic'),
+      '/人生指南/': generateSidebar('人生指南')
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
