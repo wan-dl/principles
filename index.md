@@ -26,5 +26,8 @@ features:
     link: logic/逻辑.md
   - title: 人生收藏
     details: 走别人走过的正确的路
-    link: 人生指南/收藏.md
+    link: 人生指南/高性价比.md
+  - title: 资料记录
+    details: 记录一些有用的
+    link: 资料/main.md
 ---

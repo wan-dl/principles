@@ -16,7 +16,8 @@ export default defineConfig({
       '/股票交易/': generateSidebar('股票交易'),
       '/Create-Yourself/': generateSidebar('Create-Yourself'),
       '/logic/': generateSidebar('logic'),
-      '/人生指南/': generateSidebar('人生指南')
+      '/人生指南/': generateSidebar('人生指南'),
+      '/资料/': generateSidebar('资料'),
     },
 
     socialLinks: [
